@@ -1,0 +1,37 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/VS-VPH-00035/canvas/1"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "adult and child",
+            "purpose": "commenting",
+            "creator": {
+                "id": "adicar",
+                "name": "adicar"
+            },
+            "created": "2023-11-14T11:38:11.370Z",
+            "modified": "2023-11-14T11:38:16.287Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://www.digitalcollections.manchester.ac.uk/iiif/VS-VPH-00035",
+                "type": "Manifest"
+            },
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/VS-VPH-00035/canvas/1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"2725.8470458984375\" cy=\"3863.2005615234375\" r=\"1999.5460205078125\"></circle></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c40f619a-1647-4edb-9691-e1d996997b56.json",
+    "motivation": "commenting"
+}
