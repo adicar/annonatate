@@ -1,0 +1,38 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/VS-VPH-00035/canvas/1"
+order: 3
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "person 2: child",
+            "purpose": "commenting",
+            "creator": {
+                "id": "adicar",
+                "name": "adicar"
+            },
+            "created": "2023-11-14T11:38:28.934Z",
+            "modified": "2023-11-14T11:38:34.677Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://www.digitalcollections.manchester.ac.uk/iiif/VS-VPH-00035",
+                "type": "Manifest"
+            },
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/VS-VPH-00035/canvas/1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=2803.499755859375,2721.359375,1242.43603515625,1503.63037109375"
+        }
+    },
+    "id": "6804cfb1-cc39-4f75-83bb-9351b823d388.json",
+    "motivation": "commenting"
+}
